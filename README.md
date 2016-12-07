@@ -19,4 +19,5 @@ Or use CMake ...
 Compile and run the speedtest - requires the files speedtest1.txt and speedtest2.txt for comparison:
 
     g++ speedtest.cpp -o speedtest && ./speedtest
-##
+
+## issue01 해결....
